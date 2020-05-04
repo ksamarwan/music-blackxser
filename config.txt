@@ -1,6 +1,6 @@
-token=??????
-owner=????
-prefix=.
-game=Type | .play
+token=Njk2ODEzNjA1MDUxNTY0MDQy.XrAvJA.dv4kPeB_DcSP5MAjv9EWYLrQSxM
+owner=493737008422846474
+prefix=!
+game=بــلاكـــســر
 stayinchannel=true
 songinstatus=false
